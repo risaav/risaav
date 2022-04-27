@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @risaav
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development Machine learning
 - 🌱 I’m currently learning software Engineering
 - 💞️ I’m looking to collaborate on startup which involves any new sector
 - 📫 How to reach me Email: shahrishav113@gmail.com
